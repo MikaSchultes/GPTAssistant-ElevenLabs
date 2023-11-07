@@ -1,5 +1,3 @@
-# You also need to install the MPV library https://github.com/rossy/mpv-install/blob/master/README.md if you want to enable audio collection
-
 import azure.cognitiveservices.speech as speechsdk
 import config
 import elevenlabs
